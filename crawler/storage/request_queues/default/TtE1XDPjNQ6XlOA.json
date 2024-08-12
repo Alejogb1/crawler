@@ -1,0 +1,15 @@
+{
+  "url": "https://www.pinecone.io/careers/",
+  "unique_key": "https://www.pinecone.io/careers",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {},
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "TtE1XDPjNQ6XlOA",
+  "json_": "{\n  \"url\": \"https://www.pinecone.io/careers/\",\n  \"unique_key\": \"https://www.pinecone.io/careers\",\n  \"method\": \"GET\",\n  \"payload\": null,\n  \"headers\": {},\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": \"RequestState.ERROR_HANDLER\"\n    }\n  },\n  \"retry_count\": 2,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": \"2024-08-12 13:50:08.414470+00:00\",\n  \"id\": \"TtE1XDPjNQ6XlOA\",\n  \"json_\": null,\n  \"order_no\": null\n}",
+  "order_no": null
+}
